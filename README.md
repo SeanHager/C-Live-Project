@@ -1,4 +1,4 @@
-# C Sharp AND .Net Live Project
+# C Sharp And .Net Live Project
 
 ## Introduction:
 I was also able to gain real-world experience during the C# and .NET Live Project at The Tech Academy. I worked on a Basic MVC 5 Web Application named Vertigo Theatre, which utilized Entity Framework that required both Front(HTML/RAZR, Bootstrap/CSS, JavaScript) and Back-End (C#, JSON) programming strategies and techniques. I was able to complete 3 stories and participated in daily stand-up meetings and weekly code retrospectives. I utilized Azure DevOps with my development team, Visual Studio 2019 as my IDE, SQLServer2019 for our dB, and Discord for communicating with project members and instructors. Clean version control was a crucial element to our project, as I was required to properly create seperate branches, pull the master daily, merge changes into my open branches, and submit pull requests when submitting work into the master. The Live project was a challenge and I feel that I was able to properly demostrate on how to work with a team of developers in a live enviroment.
