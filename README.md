@@ -151,6 +151,8 @@ The following was our project layout. I was instructed to work on the Rental sec
   @Scripts.Render("~/bundles/jqueryval")
 }
 ```
+*Jump to: [Page Top](#live-project)*
+
 ### Edit Page
 ```
 @model TheatreCMS3.Areas.Rent.Models.Rental
@@ -218,6 +220,8 @@ The following was our project layout. I was instructed to work on the Rental sec
   @Scripts.Render("~/bundles/jqueryval")
 }
 ```
+*Jump to: [Page Top](#live-project)*
+
 ### Styling
 ```
 /*Rental Create and Edit Page Start*/
