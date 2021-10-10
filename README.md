@@ -1,4 +1,4 @@
-# C Sharp And .Net Live Project
+# Live Project
 
 ## Introduction:
 I was also able to gain real-world experience during the C# and .NET Live Project at The Tech Academy. I worked on a Basic MVC 5 Web Application named Vertigo Theatre, which utilized Entity Framework that required both Front(HTML/RAZR, Bootstrap/CSS, JavaScript) and Back-End (C#, JSON) programming strategies and techniques. I was able to complete 3 stories and participated in daily stand-up meetings and weekly code retrospectives. I utilized Azure DevOps with my development team, Visual Studio 2019 as my IDE, SQLServer2019 for our dB, and Discord for communicating with project members and instructors. Clean version control was a crucial element to our project, as I was required to properly create seperate branches, pull the master daily, merge changes into my open branches, and submit pull requests when submitting work into the master. The Live project was a challenge and I feel that I was able to properly demostrate on how to work with a team of developers in a live enviroment.
@@ -15,7 +15,7 @@ The following was our project layout. I was instructed to work on the Rental sec
 * [Creating My Model](#creating-my-model)
 * [Style Create and Edit Pages](#style-create-and-edit-pages)
 
-*Jump to: [Page Top](#c-sharp-and-.net-live-project)*
+*Jump to: [Page Top](#live-project)*
 
 
 ## Working with JSON
@@ -35,7 +35,7 @@ The following was our project layout. I was instructed to work on the Rental sec
 ![image](https://user-images.githubusercontent.com/79550661/136677266-c2dad658-7dd0-4fbc-8908-3fd12d0e9f09.png)
 ![image](https://user-images.githubusercontent.com/79550661/136677287-b4bcf91a-cade-4b8f-a2b3-2fcd3231b942.png)
 
-*Jump to: [Page Top](#c-sharp-and-.net-live-project)*
+*Jump to: [Page Top](#live-project)*
 
 
 
@@ -57,7 +57,7 @@ The following was our project layout. I was instructed to work on the Rental sec
 5.) Finally, I was able to properly display and create the Index, Create, Details, Delete, and Edit pages. I was able to navigate to each page by typing in the address of the page in the URL. At this time for the assignment, the model Rental could be created, edited, and deleted successfully. RentalEquipment and RentalRooms would be worked on when needed in the future as I was only required to set up Rental.
 
 
-*Jump to: [Page Top](#c#-and-.net-live-project)*
+*Jump to: [Page Top](#live-project)*
 
 
 ## Style Create and Edit Pages
@@ -254,7 +254,7 @@ The following was our project layout. I was instructed to work on the Rental sec
 ![image](https://user-images.githubusercontent.com/79550661/136678267-588b222e-6e4e-4b54-8cb6-26a7f7c3bf2f.png)
 
 
-*Jump to: [Page Top](#c#-and-.net-live-project)*
+*Jump to: [Page Top](#live-project)*
 
 
 
@@ -267,4 +267,4 @@ We used Agile and Scrum as our method of development. I participated in a sprint
 3. While it is OK to ask for help, it shows that you care and are involved with the outcome. But do your research, you might surprise yourself and figure a lot out on your own.
 4. Code is time-consuming but extremely rewarding. The more you code and practice the more efficient you'll become. 
 
-*Jump to: [Page Top](#c#-and-.net-live-project)*
+*Jump to: [Page Top](#live-project)*
